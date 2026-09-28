@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="docs/screenshots/visao-geral.png" alt="Visão geral do Redduz" width="100%">
+<img src="REDDUZ/docs/screenshots/visao-geral.png" alt="Visão geral do Redduz" width="100%">
 
 </div>
 
@@ -40,7 +40,7 @@ O Redduz responde a essa pergunta em poucos segundos.
 
 | Tela Inicial | Novo Produto | Detalhes do Produto |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/tela-inicial.png" width="260"> | <img src="docs/screenshots/novo-produto.png" width="260"> | <img src="docs/screenshots/detalhes-produto.png" width="260"> |
+| <img src="REDDUZ/docs/screenshots/tela-inicial.png" width="260"> | <img src="REDDUZ/docs/screenshots/novo-produto.png" width="260"> | <img src="REDDUZ/docs/screenshots/detalhes-produto.png" width="260"> |
 | Resumo do estoque, alertas e movimentações recentes | Cadastro com foto, quantidade e estoque mínimo | Informações do produto, histórico e ações de editar/excluir |
 
 </div>
@@ -163,7 +163,7 @@ FrontEnd/
 ### Backend
 
 ```bash
-cd BackEnd
+cd REDDUZ/BackEnd
 
 # criar e ativar o ambiente virtual
 python -m venv venv
@@ -182,7 +182,7 @@ A API ficará disponível em `http://localhost:8000` e a documentação interati
 ### Frontend
 
 ```bash
-cd FrontEnd
+cd REDDUZ/FrontEnd
 npm install
 npm run dev
 ```
@@ -231,3 +231,4 @@ A aplicação ficará disponível em `http://localhost:5173`.
 Feito com dedicação para facilitar a rotina de quem trabalha na cozinha.
 
 </div>
+
