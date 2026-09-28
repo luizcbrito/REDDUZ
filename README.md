@@ -16,7 +16,7 @@
 
 <br>
 
-<img src="REDDUZ/docs/screenshots/visao-geral.png" alt="Visão geral do Redduz" width="100%">
+<img src="REDDUZ/docs/screenshots/visao-geral(1).png" alt="Visão geral do Redduz" width="100%">
 
 </div>
 
